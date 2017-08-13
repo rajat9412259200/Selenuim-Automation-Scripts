@@ -1,2 +1,4 @@
 # Selenuim-Automation-Scripts
-This repository consist of some basic script of selenuim  
+Language:- java
+automation tool:-selenium
+type:-To automate Facebook total count of friends in facebook accounts
